@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sl0wlydeadly
 - 👀 I’m interested in CS / Software Development / Mobile Apps
-- 🌱 I’m currently learning Laravel / React JS / PHP
+- 🌱 I’m currently learning Node.js / Laravel / PHP
 - 📫 How to reach me: thor93andrew@gmail.com
 
 <!---
