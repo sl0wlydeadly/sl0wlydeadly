@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sl0wlydeadly
-- 👀 I’m interested in CS / Software Development / Mobile Apps
-- 🌱 I’m currently learning Node.js / Laravel / PHP
+- 👀 I’m interested in Software Development / Web Applications / CRM Systems / ECommerce
+- 🌱 I’m currently into PHP / Laravel / Pimcore / Symfony
 - 📫 How to reach me: thor93andrew@gmail.com
 
 <!---
