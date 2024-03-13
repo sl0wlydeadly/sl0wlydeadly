@@ -8,4 +8,7 @@ sl0wlydeadly/sl0wlydeadly is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<br>
+<br>
+
 <div><img src="https://pimcore.com/academy/certificate-validation/badge/7GSF9UA4QEDV6PJ"></div>
