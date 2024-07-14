@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<div><img src="https://pimcore.com/academy/certificate-validation/badge/7GSF9UA4QEDV6PJ" width="50"></div>
+<div><img src="https://pimcore.com/academy/certificate-validation/badge/7GSF9UA4QEDV6PJ" width="250"></div>
