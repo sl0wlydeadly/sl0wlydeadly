@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @sl0wlydeadly (Entrit Matsoli)
-- 👀 I’m interested in Software Development / Web Applications / CRM Systems / ECommerce
-- 🌱 I’m currently into PHP / Laravel / Pimcore / Symfony
-- 📫 How to reach me: thor93andrew@gmail.com
 
-<!---
-sl0wlydeadly/sl0wlydeadly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Entrit Matsoli (@sl0wlydeadly)
 
-<br>
-<br>
+I'm a software developer passionate about building impactful web applications, CRM systems, and eCommerce solutions. Currently, I'm focused on PHP, Laravel, Pimcore, and Symfony, working to enhance my skills and contribute to the open-source community.
 
-<div><img src="https://pimcore.com/academy/certificate-validation/badge/7GSF9UA4QEDV6PJ" width="150"></div>
+## 🌱 Current Technologies I'm Exploring
+- **Backend**: PHP, Symfony, Laravel
+- **Content Management**: Pimcore
+- **eCommerce**: Building AI-enhanced solutions for scalable, intelligent eCommerce systems
+
+## 👀 What I'm Interested In
+- Software Development
+- Web Applications
+- CRM Systems
+- eCommerce Development with AI-enhanced capabilities
+
+## 📫 How to Reach Me
+Feel free to reach out via email at: [entrit.matsoli@gmail.com](mailto:entrit.matsoli@gmail.com)
