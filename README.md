@@ -5,6 +5,7 @@ I'm a software developer passionate about building impactful web applications, C
 
 ## 🌱 Current Technologies I'm Exploring
 - **Backend**: PHP, Symfony, Laravel
+- **AI**: Python, LangChain, n8n, Llama Stack
 - **Content Management**: Pimcore
 - **eCommerce**: Building AI-enhanced solutions for scalable, intelligent eCommerce systems
 
